@@ -1,0 +1,32 @@
+[
+    {
+        "img":"static/childMilkImg/cmBox0.png",
+        "text":"【2件起售】Nutrilon诺优能幼儿配方奶粉3段(12-36个月)800g...",
+        "aPrice":155,
+        "bPrice":188
+    },
+    {
+        "img":"static/childMilkImg/cmBox1.png",
+        "text":"【2件起售】Aptmail爱他美幼儿配方奶粉3段(12-36个月)800...",
+        "aPrice":198,
+        "bPrice":250
+    },
+    {
+        "img":"static/childMilkImg/cmBox2.png",
+        "text":"【2件起售】Nutrilon诺优能儿童配方调制乳粉4段(36-72个月)...",
+        "aPrice":155,
+        "bPrice":188
+    },
+    {
+        "img":"static/childMilkImg/cmBox3.png",
+        "text":"【自然来源膳食纤维】Nutrilon诺优能幼儿配方奶粉3段(12-3...",
+        "aPrice":909,
+        "bPrice":1128
+    },
+    {
+        "img":"static/childMilkImg/cmBox4.png",
+        "text":"【2件起售】Aptmail爱他美儿童配方调制乳粉4段(36-72个月)...",
+        "aPrice":198,
+        "bPrice":250
+    }
+]
